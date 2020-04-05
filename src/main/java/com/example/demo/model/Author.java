@@ -27,8 +27,8 @@ public class Author {
         this.books = books;
     }
 
-    public Author(String firstname, String lastName){
-        this.firstName = firstname;
+    public Author(String firstName, String lastName){
+        this.firstName = firstName;
         this.lastName = lastName;
     }
 
